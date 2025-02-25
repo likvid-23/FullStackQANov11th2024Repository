@@ -1,0 +1,6 @@
+com\sgtesting\Stepdefinitions\ElementsPageSteps.class
+com\sgtesting\AppTest.class
+com\sgtesting\RunnerFile\RunnerScript.class
+com\sgtesting\Stepdefinitions\ButtonPageSteps.class
+com\sgtesting\Stepdefinitions\FormPageSteps.class
+PageFactory\PageElements.class

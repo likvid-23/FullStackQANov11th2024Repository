@@ -5,7 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import static com.sgtesting.Stepdefinitions.Steps.oDriver;
+import static com.sgtesting.Stepdefinitions.ElementsPageSteps.oDriver;
 
 public class PageElements {
 
@@ -29,6 +29,26 @@ public class PageElements {
     private WebElement forms;
     @FindBy(xpath = "//span[text()='Practice Form']")
     private WebElement practiceform;
+    @FindBy(xpath = "//span[text()='Buttons']")
+    private WebElement buttons;
+    private WebElement dynamicClickMessage;
+
+    public WebElement getDynamicClickMessage()
+    {
+        return dynamicClickMessage;
+    }
+
+    public WebElement getButtons()
+    {
+        return  buttons;
+    }
+    @FindBy(xpath = "//button[text()='Click Me']")
+    private WebElement clickMeButton;
+    public WebElement getClickMeButton()
+    {
+        return clickMeButton;
+    }
+
     private WebElement firstName;
 
     public WebElement getFirstName() {
