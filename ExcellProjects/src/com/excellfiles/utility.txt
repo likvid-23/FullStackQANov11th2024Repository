@@ -1,0 +1,28 @@
+public class Assignment1 {
+    public static void main(String[] args) {
+        writeflowers();
+    }
+
+    public static void writeflowers()
+    {
+        FileOutputStream fout=null;
+        Workbook wb=null;
+        Sheet sh=null;
+        Row row=null;
+        Cell cell=null;
+        try
+        {
+            fout=new FileOutputStream("D:\\ExcelFiles\\Sample1.xlsx");
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+        finally {
+            try{
+                fout.close();
+                wb.close();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+    }
+}

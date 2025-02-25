@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Users and Employee">
+    <test name="Unit Test Cases">
+      <packages>
+          <package name="com.sgtestting.employee"></package>
+          <package name="com.sgtesting.users"></package>
+      </packages>
+    </test>
+</suite>
