@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/Intellijworkspace/DemoQAWeb/src/test/java/com/sgtesting">
+        <classes>
+            <class name="com.sgtesting.AppTest">
+                <methods>
+                    <include name="shouldAnswerWithTrue"/>
+                </methods>
+            </class>
+            <class name="com.sgtesting.Pages.LoginPage">
+                <methods>
+                    <include name="navigateURL"/>
+                    <include name="login"/>
+                    <include name="products"/>
+                    <include name="clickonCheckout"/>
+                    <include name="infoPage"/>
+                    <include name="finish"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
