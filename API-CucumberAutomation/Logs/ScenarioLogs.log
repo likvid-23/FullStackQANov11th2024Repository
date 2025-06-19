@@ -1,0 +1,306 @@
+[INFO ] 2025-03-10 18:29:25.026 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-10 18:29:25.285 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 18:29:25.388 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 18:29:25.445 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-10 18:29:25.450 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-10 18:29:26.009 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 18:36:07.556 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-10 18:36:07.803 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 18:36:07.898 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 18:36:07.941 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-10 18:36:07.946 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-10 18:36:08.617 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 18:38:06.773 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-10 18:38:07.011 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 18:38:07.111 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 18:38:07.161 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-10 18:38:07.167 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-10 18:38:07.790 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 19:06:38.446 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-10 19:06:38.789 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 19:06:38.873 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 19:06:38.924 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-10 19:06:38.924 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-10 19:06:39.633 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 19:09:34.102 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-10 19:09:34.339 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 19:09:34.428 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 19:09:34.473 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-10 19:09:34.478 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-10 19:09:35.130 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 19:11:18.854 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-10 19:11:19.183 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 19:11:19.270 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 19:11:19.327 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-10 19:11:19.329 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-10 19:11:20.007 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 19:15:25.834 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-10 19:15:26.140 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 19:15:26.229 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 19:15:26.284 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-10 19:15:26.285 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-10 19:15:26.967 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 19:20:51.271 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-10 19:20:51.535 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 19:20:51.660 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 19:20:51.724 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-10 19:20:51.739 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-10 19:20:52.602 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 19:21:45.907 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-10 19:21:46.242 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 19:21:46.417 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 19:21:46.512 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-10 19:21:46.512 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-10 19:21:47.317 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 19:21:48.386 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-10 19:21:48.386 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 19:21:48.386 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 19:23:34.698 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-10 19:23:34.978 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 19:23:35.095 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 19:23:35.166 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-10 19:23:35.174 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-10 19:23:35.971 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 19:23:36.897 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-10 19:23:36.901 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 19:23:36.901 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 19:23:36.901 [main] StepDefinitions - I run the GET http Method
+[INFO ] 2025-03-10 19:23:38.172 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 19:25:17.926 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-10 19:25:18.205 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 19:25:18.346 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 19:25:18.453 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-10 19:25:18.464 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-10 19:25:19.386 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 19:25:20.397 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-10 19:25:20.397 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 19:25:20.397 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 19:25:20.397 [main] StepDefinitions - I run the GET http Method
+[INFO ] 2025-03-10 19:25:20.653 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 19:26:12.192 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-10 19:26:12.441 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 19:26:12.541 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 19:26:12.585 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-10 19:26:12.591 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-10 19:26:13.266 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 19:26:13.927 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-10 19:26:13.932 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 19:26:13.932 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 19:26:13.932 [main] StepDefinitions - I run the GET http Method
+[INFO ] 2025-03-10 19:26:14.032 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 19:27:52.276 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-10 19:27:52.537 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 19:27:52.682 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 19:27:52.730 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-10 19:27:52.730 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-10 19:27:53.590 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 19:27:54.465 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-10 19:27:54.465 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 19:27:54.465 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 19:27:54.465 [main] StepDefinitions - I run the GET http Method
+[INFO ] 2025-03-10 19:27:54.591 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 22:16:19.392 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-10 22:16:19.791 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 22:16:19.950 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 22:16:20.085 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-10 22:16:20.087 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-10 22:16:21.620 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 22:16:22.637 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-10 22:16:22.643 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 22:16:22.643 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 22:16:22.647 [main] StepDefinitions - I run the GET http Method
+[INFO ] 2025-03-10 22:16:22.716 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 22:24:38.585 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-10 22:24:38.884 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 22:24:39.021 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 22:24:39.075 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-10 22:24:39.075 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-10 22:24:39.971 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 22:24:41.014 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-10 22:24:41.014 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 22:24:41.014 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 22:24:41.014 [main] StepDefinitions - I run the GET http Method
+[INFO ] 2025-03-10 22:24:41.056 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 22:24:41.056 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-10 22:24:41.056 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 22:24:41.056 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 22:24:41.062 [main] StepDefinitions - I run the DELETE http Method
+[INFO ] 2025-03-10 22:34:14.674 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-10 22:34:14.984 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 22:34:15.085 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 22:34:15.132 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-10 22:34:15.146 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-10 22:34:16.112 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 22:34:17.084 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-10 22:34:17.089 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 22:34:17.089 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 22:34:17.089 [main] StepDefinitions - I run the GET http Method
+[INFO ] 2025-03-10 22:34:17.132 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-10 22:34:17.132 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-10 22:34:17.132 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-10 22:34:17.132 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-10 22:34:17.137 [main] StepDefinitions - I run the DELETE http Method
+[INFO ] 2025-03-11 11:20:17.235 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-11 11:20:17.780 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-11 11:20:17.955 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-11 11:20:18.064 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-11 11:20:18.066 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-11 11:20:26.048 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-11 11:20:27.141 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-11 11:20:27.141 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-11 11:20:27.150 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-11 11:20:27.152 [main] StepDefinitions - I run the GET http Method
+[INFO ] 2025-03-11 11:20:27.391 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-11 11:20:27.391 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-11 11:20:27.391 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-11 11:20:27.391 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-11 11:20:27.391 [main] StepDefinitions - I run the DELETE http Method
+[INFO ] 2025-03-11 11:20:48.483 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-11 11:20:48.801 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-11 11:20:48.929 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-11 11:20:48.996 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-11 11:20:48.996 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-11 11:20:49.989 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-11 11:20:51.198 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-11 11:20:51.198 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-11 11:20:51.198 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-11 11:20:51.198 [main] StepDefinitions - I run the GET http Method
+[INFO ] 2025-03-11 11:20:51.249 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-11 11:20:51.249 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-11 11:20:51.249 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-11 11:20:51.249 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-11 11:20:51.249 [main] StepDefinitions - I run the DELETE http Method
+[INFO ] 2025-03-11 11:44:11.111 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-11 11:44:11.541 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-11 11:44:11.644 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-11 11:44:11.726 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-11 11:44:11.733 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-11 11:44:12.892 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-11 11:44:13.729 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-11 11:44:13.729 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-11 11:44:13.734 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-11 11:44:13.735 [main] StepDefinitions - I run the GET http Method
+[INFO ] 2025-03-11 11:44:13.783 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-11 11:44:13.783 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-11 11:44:13.783 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-11 11:44:13.796 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-11 11:44:13.796 [main] StepDefinitions - I run the DELETE http Method
+[INFO ] 2025-03-11 11:45:02.478 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-11 11:45:02.886 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-11 11:45:03.009 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-11 11:45:03.111 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-11 11:45:03.111 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-11 11:45:04.229 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-11 11:45:05.047 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-11 11:45:05.047 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-11 11:45:05.047 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-11 11:45:05.054 [main] StepDefinitions - I run the GET http Method
+[INFO ] 2025-03-11 11:45:05.104 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-11 11:45:05.105 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-11 11:45:05.106 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-11 11:45:05.106 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-11 11:45:05.108 [main] StepDefinitions - I run the DELETE http Method
+[INFO ] 2025-03-11 11:45:05.140 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-14 10:08:33.819 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-14 10:08:34.320 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-14 10:08:34.503 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-14 10:08:34.616 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-14 10:08:34.623 [main] StepDefinitions - I run the POST http Method
+[ERROR] 2025-03-14 10:08:35.931 [main] StepDefinitions - there is a Error message has occured during execution of I_provide_Post_Employee_Request_EndPoint, Exception :java.net.ConnectException: Connection refused: connect
+[INFO ] 2025-03-14 10:08:35.932 [main] StepDefinitions - I get the status code as {int}
+[ERROR] 2025-03-14 10:08:35.932 [main] StepDefinitions - there is a Error message has occured during execution of I_provide_Post_Employee_Request_EndPoint, Exception :java.lang.NullPointerException: Cannot invoke "io.restassured.response.Response.getStatusCode()" because "com.sgtesting.employee.StepDefinitions.StepDefinitions.response" is null
+[ERROR] 2025-03-14 10:08:35.933 [main] StepDefinitions - there is a Error message has occured during execution of I_provide_Post_Employee_Request_EndPoint, Exception :java.lang.NullPointerException: Cannot invoke "io.restassured.response.Response.jsonPath()" because "com.sgtesting.employee.StepDefinitions.StepDefinitions.response" is null
+[INFO ] 2025-03-14 10:08:35.934 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-14 10:08:35.935 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-14 10:08:35.936 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-14 10:08:35.938 [main] StepDefinitions - I run the GET http Method
+[ERROR] 2025-03-14 10:08:35.969 [main] StepDefinitions - there is a Error message has occured during execution of I_provide_Post_Employee_Request_EndPoint, Exception :java.net.ConnectException: Connection refused: connect
+[INFO ] 2025-03-14 10:08:35.970 [main] StepDefinitions - I get the status code as {int}
+[ERROR] 2025-03-14 10:08:35.971 [main] StepDefinitions - there is a Error message has occured during execution of I_provide_Post_Employee_Request_EndPoint, Exception :java.lang.NullPointerException: Cannot invoke "io.restassured.response.Response.getStatusCode()" because "com.sgtesting.employee.StepDefinitions.StepDefinitions.response" is null
+[INFO ] 2025-03-14 10:08:35.972 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-14 10:08:35.973 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-14 10:08:35.974 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-14 10:08:35.976 [main] StepDefinitions - I run the DELETE http Method
+[ERROR] 2025-03-14 10:08:35.993 [main] StepDefinitions - there is a Error message has occured during execution of I_provide_Post_Employee_Request_EndPoint, Exception :java.net.ConnectException: Connection refused: connect
+[INFO ] 2025-03-14 10:08:35.996 [main] StepDefinitions - I get the status code as {int}
+[ERROR] 2025-03-14 10:08:35.996 [main] StepDefinitions - there is a Error message has occured during execution of I_provide_Post_Employee_Request_EndPoint, Exception :java.lang.NullPointerException: Cannot invoke "io.restassured.response.Response.getStatusCode()" because "com.sgtesting.employee.StepDefinitions.StepDefinitions.response" is null
+[INFO ] 2025-03-14 10:10:02.651 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-14 10:10:03.024 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-14 10:10:03.181 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-14 10:10:03.262 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-14 10:10:03.272 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-14 10:10:05.339 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-14 10:10:06.212 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-14 10:10:06.212 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-14 10:10:06.213 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-14 10:10:06.216 [main] StepDefinitions - I run the GET http Method
+[INFO ] 2025-03-14 10:10:06.483 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-14 10:10:06.483 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-14 10:10:06.484 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-14 10:10:06.485 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-14 10:10:06.486 [main] StepDefinitions - I run the DELETE http Method
+[INFO ] 2025-03-14 10:10:06.540 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-14 10:12:10.004 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-14 10:12:10.255 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-14 10:12:10.377 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-14 10:12:10.439 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-14 10:12:10.447 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-14 10:12:11.383 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-14 10:12:12.355 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-14 10:12:12.355 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-14 10:12:12.356 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-14 10:12:12.357 [main] StepDefinitions - I run the GET http Method
+[INFO ] 2025-03-14 10:12:12.398 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-14 10:12:12.399 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-14 10:12:12.400 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-14 10:12:12.401 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-14 10:12:12.403 [main] StepDefinitions - I run the DELETE http Method
+[INFO ] 2025-03-14 10:12:12.461 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-14 10:15:34.913 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-14 10:15:35.180 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-14 10:15:35.311 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-14 10:15:35.383 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-14 10:15:35.391 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-14 10:15:36.339 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-14 10:15:37.098 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-14 10:15:37.099 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-14 10:15:37.101 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-14 10:15:37.102 [main] StepDefinitions - I run the GET http Method
+[INFO ] 2025-03-14 10:15:37.138 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-14 10:15:37.139 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-14 10:15:37.140 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-14 10:15:37.142 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-14 10:15:37.146 [main] StepDefinitions - I run the DELETE http Method
+[INFO ] 2025-03-14 10:15:37.188 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-19 11:14:57.269 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-19 11:14:57.608 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-19 11:14:57.727 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-19 11:14:57.798 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-19 11:14:57.807 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-19 11:14:59.045 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-19 11:14:59.868 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-19 11:14:59.868 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-19 11:14:59.868 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-19 11:14:59.876 [main] StepDefinitions - I run the GET http Method
+[INFO ] 2025-03-19 11:14:59.912 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-19 11:14:59.912 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-19 11:14:59.916 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-19 11:14:59.916 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-19 11:14:59.917 [main] StepDefinitions - I run the DELETE http Method
+[INFO ] 2025-03-19 11:14:59.990 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-19 11:33:35.138 [main] StepDefinitions - I provide Post Employee Request EndPoint
+[INFO ] 2025-03-19 11:33:35.537 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-19 11:33:35.632 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-19 11:33:35.722 [main] StepDefinitions - I provide request Body
+[INFO ] 2025-03-19 11:33:35.722 [main] StepDefinitions - I run the POST http Method
+[INFO ] 2025-03-19 11:33:36.976 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-19 11:33:37.758 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-19 11:33:37.758 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-19 11:33:37.776 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-19 11:33:37.777 [main] StepDefinitions - I run the GET http Method
+[INFO ] 2025-03-19 11:33:37.824 [main] StepDefinitions - I get the status code as {int}
+[INFO ] 2025-03-19 11:33:37.824 [main] StepDefinitions - I provide Get Employee Request EndPoint
+[INFO ] 2025-03-19 11:33:37.824 [main] StepDefinitions - I Create Request Specification Object
+[INFO ] 2025-03-19 11:33:37.824 [main] StepDefinitions - I provide request header
+[INFO ] 2025-03-19 11:33:37.824 [main] StepDefinitions - I run the DELETE http Method
+[INFO ] 2025-03-19 11:33:37.867 [main] StepDefinitions - I get the status code as {int}

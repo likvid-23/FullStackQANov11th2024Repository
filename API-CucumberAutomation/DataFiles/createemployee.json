@@ -1,0 +1,12 @@
+{
+  "employeeFirstName": "Automation",
+  "employeeLastName": "User1",
+  "jobName": "Manager",
+  "emailId": "a_user1@gss.com",
+  "age": 22,
+  "contactNumber": 9010507011,
+  "salary": 25000,
+  "departmentName": "Research",
+  "cityName": "Bangalore",
+  "address": "4th Stage, 5th Cross, Vijaynagar"
+}

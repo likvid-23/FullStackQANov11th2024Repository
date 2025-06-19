@@ -1,0 +1,60 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "number"
+    },
+    "employeeFirstName": {
+      "type": "string"
+    },
+    "employeeLastName": {
+      "type": "string"
+    },
+    "jobName": {
+      "type": "string"
+    },
+    "emailId": {
+      "type": "string"
+    },
+    "age": {
+      "type": "number"
+    },
+    "contactNumber": {
+      "type": "number"
+    },
+    "salary": {
+      "type": "number"
+    },
+    "departmentName": {
+      "type": "string"
+    },
+    "cityName": {
+      "type": "string"
+    },
+    "address": {
+      "type": "string"
+    },
+    "createdAt": {
+      "type": "string"
+    },
+    "updatedAt": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "employeeFirstName",
+    "employeeLastName",
+    "jobName",
+    "emailId",
+    "age",
+    "contactNumber",
+    "salary",
+    "departmentName",
+    "cityName",
+    "address",
+    "createdAt",
+    "updatedAt"
+  ]
+}
+
